@@ -2,3 +2,4 @@ streamlit
 pandas
 matplotlib
 openpyxl
+import plotly.express as px
